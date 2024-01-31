@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
-  },
+  }, 
+//These are the npm packages to build this app. 
   "keywords": [],
   "author": "",
   "license": "MIT",
